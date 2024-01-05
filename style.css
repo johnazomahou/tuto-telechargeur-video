@@ -1,0 +1,25 @@
+
+a{
+    text-decoration: none;
+   color: inherit;
+}
+
+.lien{
+    display: flex;
+    margin: auto;
+    border-radius: 5px;
+    font-size: 30px;
+    width: fit-content;
+    background-color:rgba(235, 13, 57, 0.959);
+    color: white;
+    padding: 15px;
+ margin-top: 20%;
+}
+.lien:hover{
+    background-color:crimson;
+}
+img{
+   margin-left: 5px;
+}
+
+
